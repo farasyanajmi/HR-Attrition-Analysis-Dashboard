@@ -2,6 +2,14 @@
 
 ## 🚀 Project Overview
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9b58c01d-dd3e-4b96-8d49-21484ce93e56" />
+
+
+
+https://github.com/user-attachments/assets/374e3b5d-3049-45ba-b9e7-58b60a903021
+
+
+
 This project focuses on a comprehensive **Employee Attrition Analysis** using a synthesized Human Resources dataset. The primary goal is to leverage data analytics and visualization techniques to identify, understand, and predict the key drivers behind employee turnover.
 
 The outcome of this analysis is a structured set of cleaned data and key metrics, designed to power an interactive dashboard (e.g., in Power BI or Tableau) to provide actionable insights for HR and management.
